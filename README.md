@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rohitshahare
+- 👋 Hi, I’m Rohit shahare
 - 👀 I’m interested in data analytics and data science projects
 - 🌱 I’m currently learning power BI, MYSQL, and EDA
 - 📫 Reach me - rmshahare30@gmail.com
