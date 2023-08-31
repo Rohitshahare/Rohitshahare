@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit shahare
-- 👀 I’m interested in data analytics field 
-- 🌱 I have learnt Excel, Python, SQL Language, Tablue, Pandas, NumPy, Seaborn, Matplotlib
+- 👀 I’m interested in the data analytics field 
+- 🌱 I have learned Excel, Python, SQL Language, Tablue, Pandas, NumPy, Seaborn, Matplotlib
 - 📫 Reach me - rmshahare30@gmail.com
      Phone - 9881797429
 
