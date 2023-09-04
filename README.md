@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit shahare
 - 👀 I’m interested in the data analytics field 
-- 🌱 * I have learned Excel, Python, SQL Language, Tablue, Pandas, NumPy, Seaborn, Matplotlib
+- 🌱 * I have learned Excel, Python, SQL Language, Tableau, Pandas, NumPy, Seaborn, Matplotlib
 * I am able to Analyze Data to Answer Questions,
 * Able to Share Data Through the Art of Visualization (Tableau Reports)
 * Able to Process Data from Dirty to Clean
